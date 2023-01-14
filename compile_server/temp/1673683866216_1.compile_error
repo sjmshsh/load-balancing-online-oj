@@ -1,0 +1,4 @@
+./temp/1673683866216_1.cpp: In function ‘int main()’:
+./temp/1673683866216_1.cpp:2:57: error: expected ‘}’ at end of input
+    2 | int main(){std::cout<<"你好，编译服务"<<std::endl;
+      |           ~                                             ^
